@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         MouseHunt - Fix HUD Shadow
 // @namespace    http://github.com/hymccord
-// @version      0.1
+// @version      0.1.1
 // @description  Can't unsee the weird shadow? Now you can!
-// @author       You
+// @author       Xellis
 // @match        https://www.mousehuntgame.com/*
 // @icon         https://www.mousehuntgame.com/images/mice/square/6b9bd6acb4a07d560f61e5678e4ff3b5.jpg
 // @require      https://cdn.jsdelivr.net/npm/mousehunt-utils@1.2.0/mousehunt-utils.js
